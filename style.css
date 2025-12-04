@@ -110,7 +110,7 @@ body {
   font-weight: 700;
 }
 .hero-section {
-  background-image: url("./HERO IMAGE OF AMAZON.JPG");
+  background-image: url("./HERO_IMAGE_OF_AMAZON.jpg");
   background-size: cover;
   height: 380px;
   display: flex;
