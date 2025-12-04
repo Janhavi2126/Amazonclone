@@ -20,7 +20,7 @@ body {
   width: 100px;
 }
 .logo {
-  background-image: url("amazon logooo.png");
+  background-image: url("./amazon logooo.png");
   background-size: cover;
   height: 50px;
   width: 100px;
@@ -110,7 +110,7 @@ body {
   font-weight: 700;
 }
 .hero-section {
-  background-image: url("HERO IMAGE OF AMAZON.JPG");
+  background-image: url("./HERO IMAGE OF AMAZON.JPG");
   background-size: cover;
   height: 380px;
   display: flex;
@@ -214,4 +214,4 @@ ul a {
 
 .copyright {
   padding-top: 5px;
- 
+}
